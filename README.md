@@ -5,4 +5,4 @@ The dataset used in this project is the [2022 Behavioral Risk Factor Surveillanc
 
 The main question to be explored in this project is to find the risk factors that are most predictive of diabetes and predict whether an individual has diabetes.
 
-The midterm.Rmd file and the knitted html contain the exploratory data analysis, data visualization, and some statistical analysis used to explore this question.
+The Risk-Factors-of-Diabetes-And-Predictions.Rmd file and the corresponding knitted Risk-Factors-of-Diabetes-And-Predictions.html file contain the exploratory data analysis, data visualization, and some statistical analysis used to explore this question.
